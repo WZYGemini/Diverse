@@ -1,0 +1,16 @@
+PODS:
+  - Diverse (1.0)
+
+DEPENDENCIES:
+  - Diverse (from `../`)
+
+EXTERNAL SOURCES:
+  Diverse:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Diverse: 7a1429b8a0297cdec3b711766f3a9ae2b34f6b4d
+
+PODFILE CHECKSUM: d3641bf5a3242010dd166d9f0aba5fffddf96d0b
+
+COCOAPODS: 1.6.1
